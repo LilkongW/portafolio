@@ -1,0 +1,16 @@
+{
+  "home": "Inicio",
+  "about": "Sobre Mí",
+  "projects": "Proyectos",
+  "contact": "Contacto",
+  "about_title": "Sobre Mí",
+  "about_description": "Soy un desarrollador apasionado por crear soluciones web modernas. Me encanta trabajar en proyectos desafiantes y aprender nuevas tecnologías.",
+  "home_description":"Desarrollador web frontend",
+  "contact_title":"Contacto",
+  "projects_title": "Proyectos",
+  "projects_list": [
+    "🌟 Proyecto 1: Una aplicación interactiva",
+    "🌟 Proyecto 2: Un sitio web personal",
+    "🌟 Proyecto 3: Una tienda en línea"
+  ]
+}

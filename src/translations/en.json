@@ -1,0 +1,16 @@
+{
+  "home": "Home",
+  "about": "About Me",
+  "projects": "Projects",
+  "contact": "Contact",
+  "about_title": "About Me",
+  "about_description": "I am a developer passionate about creating modern web solutions. I love working on challenging projects and learning new technologies.",
+  "home_description":"Frontend web developer",
+  "contact_title":"Contact",
+  "projects_title": "Projects",
+  "projects_list": [
+    "🌟 Project 1: An interactive application",
+    "🌟 Project 2: A personal website",
+    "🌟 Project 3: An online store"
+  ]
+}
